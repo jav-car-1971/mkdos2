@@ -23,7 +23,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-# extra:
+# extra:                                      # esta seccion la inhabilite por ahora
 #  analytics:
 #    provider: google
 #    property: G-SZB618VNBZ
