@@ -1,6 +1,6 @@
-site_name: "cal-itp/mkdocs-template"
-site_url: https://docs.calitp.org/mkdocs-template
-repo_url: https://github.com/cal-itp/mkdocs-template
+site_name: "mkdos"
+site_url: https://jav-car-1971.github.io/mkdos/
+repo_url: https://github.com/cjav-car-197mkdos
 edit_uri: edit/main/docs
 
 theme:
@@ -23,10 +23,10 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-extra:
-  analytics:
-    provider: google
-    property: G-SZB618VNBZ
+# extra:
+#  analytics:
+#    provider: google
+#    property: G-SZB618VNBZ
 
 plugins:
   - search
